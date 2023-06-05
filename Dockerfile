@@ -19,7 +19,7 @@ WORKDIR /app/frontend
 RUN npm install
 
 # Porta do backend
-EXPOSE 3000
+EXPOSE 3001
 
 # Porta do frontend
 EXPOSE 8080
